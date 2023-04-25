@@ -24,3 +24,6 @@ Le Big Data est un domaine en constante évolution qui nécessite des technologi
 Le volume fait référence à la quantité de données produites chaque jour, qui est souvent trop grande pour être gérée avec des outils traditionnels.
 La variété fait référence à la diversité des types de données, y compris les données structurées, semi-structurées et non structurées.
 La vélocité fait référence à la vitesse à laquelle les données sont générées et doivent être traitées.
+
+Concernant DBT, c'est un outil utilisé pour transformer et modéliser les données dans le cadre de pipelines de données modernes. Il permet aux équipes d'analyse de gérer le cycle de vie complet des données de manière collaborative, depuis l'extraction et la transformation des données jusqu'à la modélisation des données et la mise en œuvre de la logique métier.
+DBT utilise des fichiers YAML pour définir les transformations de données, ce qui permet de les gérer facilement avec un système de contrôle de version tel que Git.
