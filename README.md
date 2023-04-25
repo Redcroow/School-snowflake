@@ -2,10 +2,14 @@ Welcome to your new dbt project!
 
 ## ------------------------------------------------
 
-### Using the starter project
-Try running the following commands:
-- dbt run
-- dbt test
+### Commande DBT
+- dbt run: exécute les requêtes SQL définies dans les modèles dbt pour transformer et charger des données dans une base de données cible.
+- dbt test: vérifie si les résultats des modèles dbt sont conformes aux attentes définies dans les fichiers de test.
+- dbt debug: permet de diagnostiquer les erreurs rencontrées lors de l'exécution des modèles dbt.
+- dbt compile: compile les modèles dbt en requêtes SQL, mais ne les exécute pas.
+- dbt seed: insère des données initiales dans la base de données cible.
+- dbt docs generate: génère de la documentation pour les modèles dbt au format HTML.
+- dbt docs serve: sert la documentation générée par dbt sur un serveur local pour une visualisation facile dans un navigateur web.
 
 ## ------------------------------------------------
 
