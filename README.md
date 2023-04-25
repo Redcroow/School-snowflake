@@ -1,13 +1,13 @@
 Welcome to your new dbt project!
 
-##------------------------------------------------
+## ------------------------------------------------
 
 ### Using the starter project
 Try running the following commands:
 - dbt run
 - dbt test
 
-##------------------------------------------------
+## ------------------------------------------------
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
@@ -16,7 +16,7 @@ Try running the following commands:
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
 
-##------------------------------------------------
+## ------------------------------------------------
 
 ### Résumé Big Data et DBT :
 Le Big Data est un domaine en constante évolution qui nécessite des technologies, des architectures et des outils spécifiques pour gérer, stocker et analyser les données massives. Les trois V - Volume, Variété et Vélocité - sont les caractéristiques clés du Big Data qui nécessitent une attention particulière lors de la mise en œuvre des solutions Big Data.
