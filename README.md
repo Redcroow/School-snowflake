@@ -15,9 +15,8 @@ Try running the following commands:
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
 
 
+Le Big Data est un domaine en constante évolution qui nécessite des technologies, des architectures et des outils spécifiques pour gérer, stocker et analyser les données massives. Les trois V - Volume, Variété et Vélocité - sont les caractéristiques clés du Big Data qui nécessitent une attention particulière lors de la mise en œuvre des solutions Big Data.
 
-### FAIRE UN PDF
-# Expliquer ce que c'est que les 3 V (voir pdf velocité ect)
-# Expliquer ce qu'est dbt
-# Expliquer les commandes
-# Resumer vite fait le pdf
+Le volume fait référence à la quantité de données produites chaque jour, qui est souvent trop grande pour être gérée avec des outils traditionnels.
+La variété fait référence à la diversité des types de données, y compris les données structurées, semi-structurées et non structurées.
+La vélocité fait référence à la vitesse à laquelle les données sont générées et doivent être traitées.
