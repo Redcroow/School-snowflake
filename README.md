@@ -3,7 +3,7 @@ Welcome to your new dbt project!
 ## ------------------------------------------------
 
 ### Commande DBT
-- dbt run: exécute les requêtes SQL définies dans les modèles dbt pour transformer et charger des données dans une base de données cible.
+- <b>dbt run:</b> exécute les requêtes SQL définies dans les modèles dbt pour transformer et charger des données dans une base de données cible.
 - dbt test: vérifie si les résultats des modèles dbt sont conformes aux attentes définies dans les fichiers de test.
 - dbt debug: permet de diagnostiquer les erreurs rencontrées lors de l'exécution des modèles dbt.
 - dbt compile: compile les modèles dbt en requêtes SQL, mais ne les exécute pas.
